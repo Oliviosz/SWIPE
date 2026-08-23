@@ -1,0 +1,309 @@
+{
+  "source": {
+    "platform": "TrendTrack",
+    "scope": "personal",
+    "folderName": "Statics",
+    "folderId": "55635ad6-f264-45b3-9d15-8d95c3eb1a01",
+    "exportedAt": "2026-08-23"
+  },
+  "count": 27,
+  "images": [
+    {
+      "order": 1,
+      "filename": "01-primal-viking-facebook-935616566200858.jpg",
+      "savedId": 475259,
+      "savedAt": "2026-08-22T15:36:39.768Z",
+      "adId": "facebook_935616566200858",
+      "advertiser": "Primal Viking",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/935616566200858.jpg",
+      "landingDomain": "primalviking.com"
+    },
+    {
+      "order": 2,
+      "filename": "02-primal-viking-facebook-1509308130387879.jpg",
+      "savedId": 475258,
+      "savedAt": "2026-08-22T15:36:21.558Z",
+      "adId": "facebook_1509308130387879",
+      "advertiser": "Primal Viking",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/8a8bba50dcdd6efd01fc01392fcca8550afb9428e7fe9f56c0b7c9534f25d50c.jpg",
+      "landingDomain": "primalviking.com"
+    },
+    {
+      "order": 3,
+      "filename": "03-primal-viking-facebook-1519107200225621.jpg",
+      "savedId": 475256,
+      "savedAt": "2026-08-22T15:36:08.530Z",
+      "adId": "facebook_1519107200225621",
+      "advertiser": "Primal Viking",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/9df3e2e5e43c8be7fefe147a58e39bdea5fcb0dab44646ed9bcb65046f5e2188.jpg",
+      "landingDomain": "primalviking.com"
+    },
+    {
+      "order": 4,
+      "filename": "04-primal-viking-facebook-1728145388389395.png",
+      "savedId": 475234,
+      "savedAt": "2026-08-22T15:23:24.510Z",
+      "adId": "facebook_1728145388389395",
+      "advertiser": "Primal Viking",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/812806ee38f20c89d14c9b3c632b3224c4bf9e3c2abc60c417132845ea4eac0f.png",
+      "landingDomain": "primalviking.com"
+    },
+    {
+      "order": 5,
+      "filename": "05-primal-viking-facebook-2006753873561951.jpg",
+      "savedId": 475232,
+      "savedAt": "2026-08-22T15:22:59.049Z",
+      "adId": "facebook_2006753873561951",
+      "advertiser": "Primal Viking",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/2ee5d4d4e7a833ffcca02b9c9de03a563a0082c9f58e3961a095010f30dcc57b.jpg",
+      "landingDomain": "primalviking.com"
+    },
+    {
+      "order": 6,
+      "filename": "06-happy-mammoth-facebook-4268575026693042.jpg",
+      "savedId": 475229,
+      "savedAt": "2026-08-22T15:21:29.966Z",
+      "adId": "facebook_4268575026693042",
+      "advertiser": "Happy Mammoth",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1562660632229953.jpg",
+      "landingDomain": "happymammoth.com"
+    },
+    {
+      "order": 7,
+      "filename": "07-happy-mammoth-facebook-934252822745880.jpg",
+      "savedId": 475227,
+      "savedAt": "2026-08-22T15:20:50.474Z",
+      "adId": "facebook_934252822745880",
+      "advertiser": "Happy Mammoth",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1288091296187111.jpg",
+      "landingDomain": "happymammoth.com"
+    },
+    {
+      "order": 8,
+      "filename": "08-happy-mammoth-facebook-1562053411956005.jpg",
+      "savedId": 475226,
+      "savedAt": "2026-08-22T15:19:47.071Z",
+      "adId": "facebook_1562053411956005",
+      "advertiser": "Happy Mammoth",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/de5ad746571d941a77e7ace8f7bf2d55b9915951533aaea46d1034294404dfe1.jpg",
+      "landingDomain": "happymammoth.com"
+    },
+    {
+      "order": 9,
+      "filename": "09-happy-mammoth-facebook-808179408705482.jpg",
+      "savedId": 475224,
+      "savedAt": "2026-08-22T15:18:39.737Z",
+      "adId": "facebook_808179408705482",
+      "advertiser": "Happy Mammoth",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/a9312b2a25130f78d5f18e04cc1739b864c29dfc9557c84f75cc3e7509765bbd.jpg",
+      "landingDomain": "eu.happymammoth.com"
+    },
+    {
+      "order": 10,
+      "filename": "10-froya-organics-facebook-2320606621699154.jpg",
+      "savedId": 475220,
+      "savedAt": "2026-08-22T15:12:43.471Z",
+      "adId": "facebook_2320606621699154",
+      "advertiser": "Frøya Organics",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/1c64ee1c2c5b41feeb4336ca57a6b92d04441a20002d88a24174f724d18d9977.jpg",
+      "landingDomain": "froyaorganics.com"
+    },
+    {
+      "order": 11,
+      "filename": "11-froya-organics-facebook-1890850048280742.jpg",
+      "savedId": 475215,
+      "savedAt": "2026-08-22T15:10:48.591Z",
+      "adId": "facebook_1890850048280742",
+      "advertiser": "Frøya Organics",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/27a24b3c8c34cc3273b7fba5e5591c6f7ff2e9c03966ff53bb746a622de6c2db.jpg",
+      "landingDomain": "froyaorganics.com"
+    },
+    {
+      "order": 12,
+      "filename": "12-ryze-superfoods-facebook-1481120040327490.jpg",
+      "savedId": 475198,
+      "savedAt": "2026-08-22T15:08:32.225Z",
+      "adId": "facebook_1481120040327490",
+      "advertiser": "RYZE Superfoods",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1006520482021485.jpg",
+      "landingDomain": "shop.ryzesuperfoods.com"
+    },
+    {
+      "order": 13,
+      "filename": "13-ryze-superfoods-facebook-2001618080442661.jpg",
+      "savedId": 475196,
+      "savedAt": "2026-08-22T15:08:09.549Z",
+      "adId": "facebook_2001618080442661",
+      "advertiser": "RYZE Superfoods",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/636b746a263fc4fed4da02a3af6502dbf6571a1f9972ba610cf3b3ff11907e03.jpg",
+      "landingDomain": "shop.ryzesuperfoods.com"
+    },
+    {
+      "order": 14,
+      "filename": "14-ryze-superfoods-facebook-1465090648528558.jpg",
+      "savedId": 475194,
+      "savedAt": "2026-08-22T15:07:15.782Z",
+      "adId": "facebook_1465090648528558",
+      "advertiser": "RYZE Superfoods",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/6919366a78ce019877151dbed35196f1321ca61593c4437116437c2baf2a0cad.jpg",
+      "landingDomain": "shop.ryzesuperfoods.com"
+    },
+    {
+      "order": 15,
+      "filename": "15-ryze-superfoods-facebook-1001253325616708.png",
+      "savedId": 475192,
+      "savedAt": "2026-08-22T15:07:09.078Z",
+      "adId": "facebook_1001253325616708",
+      "advertiser": "RYZE Superfoods",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/a58864baca9f9100fb5de363fa366f5f444538580b507c45ea36972559641729.png",
+      "landingDomain": "shop.ryzesuperfoods.com"
+    },
+    {
+      "order": 16,
+      "filename": "16-natural-vitality-journal-facebook-1051482107865489.jpg",
+      "savedId": 475190,
+      "savedAt": "2026-08-22T15:05:34.642Z",
+      "adId": "facebook_1051482107865489",
+      "advertiser": "Natural Vitality Journal",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/285f1e4a8444514d259b656b7339d41390540f2dbb743826a81d209a313a2508.jpg",
+      "landingDomain": "lymphoria.co"
+    },
+    {
+      "order": 17,
+      "filename": "17-ancient-roots-facebook-1467803308513733.jpg",
+      "savedId": 475189,
+      "savedAt": "2026-08-22T15:05:16.622Z",
+      "adId": "facebook_1467803308513733",
+      "advertiser": "Ancient Roots",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/e5f91a8a8a22c3d08ed4d6775780c3c3d33f8020ac93aa3bae977902a1b453e4.jpg",
+      "landingDomain": "lymphoria.co"
+    },
+    {
+      "order": 18,
+      "filename": "18-vinia-facebook-1757653318749031.png",
+      "savedId": 473819,
+      "savedAt": "2026-08-22T04:09:10.307Z",
+      "adId": "facebook_1757653318749031",
+      "advertiser": "VINIA",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/1558de7407dda6458b3fd8311bbe40cbdbf1245b08e8441712ef881bd809a83c.png",
+      "landingDomain": "vinia.com"
+    },
+    {
+      "order": 19,
+      "filename": "19-arctic-goddess-facebook-1504803131161672.jpg",
+      "savedId": 473806,
+      "savedAt": "2026-08-22T03:51:49.091Z",
+      "adId": "facebook_1504803131161672",
+      "advertiser": "Arctic Goddess",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/96f35b0ed8b6fc686cefa7b903b46eae905381a185ddabc9de89224ed3872420.jpg",
+      "landingDomain": "arcticgoddess.com"
+    },
+    {
+      "order": 20,
+      "filename": "20-primal-queen-facebook-1547492860155108.jpg",
+      "savedId": 473803,
+      "savedAt": "2026-08-22T03:50:16.409Z",
+      "adId": "facebook_1547492860155108",
+      "advertiser": "Primal Queen",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/da03a648ea1406678a6ae590ea2407e8523e44365aee9e68308764469ad42387.jpg",
+      "landingDomain": "primalqueen.com"
+    },
+    {
+      "order": 21,
+      "filename": "21-bioroot-labs-facebook-515349401637376.jpg",
+      "savedId": 473799,
+      "savedAt": "2026-08-22T03:49:00.898Z",
+      "adId": "facebook_515349401637376",
+      "advertiser": "BioRoot Labs",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/ee6b26ded47c8fd8c39db0ca5ecf978f01f2210879c82bbca3ca123caf2ead7e.jpg",
+      "landingDomain": null
+    },
+    {
+      "order": 22,
+      "filename": "22-rosabella-facebook-1402890298343166.jpg",
+      "savedId": 473796,
+      "savedAt": "2026-08-22T03:46:29.978Z",
+      "adId": "facebook_1402890298343166",
+      "advertiser": "Rosabella",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1023388480640269.jpg",
+      "landingDomain": "track.tryrosabella.com"
+    },
+    {
+      "order": 23,
+      "filename": "23-family-handyman-facebook-1270533965184828.jpg",
+      "savedId": 473795,
+      "savedAt": "2026-08-22T03:43:52.523Z",
+      "adId": "facebook_1270533965184828",
+      "advertiser": "Family Handyman",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1459245648919246.jpg",
+      "landingDomain": "mengotomars.com"
+    },
+    {
+      "order": 24,
+      "filename": "24-bickelco-facebook-2430533510721887.jpg",
+      "savedId": 473794,
+      "savedAt": "2026-08-22T03:43:16.064Z",
+      "adId": "facebook_2430533510721887",
+      "advertiser": "Bickelco",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/2013678762519667.jpg",
+      "landingDomain": "mengotomars.com"
+    },
+    {
+      "order": 25,
+      "filename": "25-mars-men-t-support-facebook-1025895876430873.jpg",
+      "savedId": 473793,
+      "savedAt": "2026-08-22T03:42:56.881Z",
+      "adId": "facebook_1025895876430873",
+      "advertiser": "Mars Men T Support",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/27296687089936361.jpg",
+      "landingDomain": "mengotomars.com"
+    },
+    {
+      "order": 26,
+      "filename": "26-mars-men-facebook-1526711108845120.jpg",
+      "savedId": 473792,
+      "savedAt": "2026-08-22T03:42:04.791Z",
+      "adId": "facebook_1526711108845120",
+      "advertiser": "Mars Men",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/image/facebook/1635395861020132.jpg",
+      "landingDomain": "mengotomars.com"
+    },
+    {
+      "order": 27,
+      "filename": "27-mars-men-facebook-1335522581831913.png",
+      "savedId": 473791,
+      "savedAt": "2026-08-22T03:41:59.714Z",
+      "adId": "facebook_1335522581831913",
+      "advertiser": "Mars Men",
+      "mediaType": "image",
+      "originalMediaUrl": "https://medias.trendtrack.io/facebook/image/9c8adba5f38d52a1f7a69522cdce4e296167b07f7067da38c857d0cd2fb3c8f9.png",
+      "landingDomain": "mengotomars.com"
+    }
+  ]
+}
