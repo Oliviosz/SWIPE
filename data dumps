@@ -1,1 +1,68 @@
+RANK BY TOTAL MENTIONS (wound + outcome combined, 999 reviews):
 
+Rank	Category	Wound	Outcome	Total
+1	Weight / body	51	28	79
+2	Caffeine dependence	59	4	63
+3	Mood / anxiety	54	9	63
+4	Brain fog / clarity	34	28	62
+5	Full day energy	5	54	59
+6	Afternoon crash	19	31	50
+7	Hair / skin	21	11	32
+8	Sleep quality	14	18	32
+9	Nap elimination	22	1	23
+10	Exercise / movement	0	21	21
+11	Libido / intimacy	4	15	19
+12	Morning energy	4	11	15
+13	Work productivity	0	13	13
+14	Identity / self	0	12	12
+15	Social / friends	4	3	7
+16	Parenting	0	6	6
+17	Cooking / domestic	1	0	1
+
+WHAT THE RATIO COLUMN REVEALS:
+
+The ratio (outcome vs wound) tells you whether a category is a hook or a payoff.
+
+High wound, low outcome = strong HOOK, weak payoff. Women describe the problem vividly but don't describe what's different after. Best used for scene/bridge.
+
+Caffeine: 59 wound, 4 outcome. Women talk about living on coffee. Almost none say "I don't need coffee anymore." Strong before-state SCENE — the coffee cup in every frame.
+Nap elimination: 22 wound, 1 outcome. Women describe napping extensively. Almost none say "I stopped napping." The wound is vivid, the recovery isn't stated. Reddit is where the nap-outcome language lives, not Amazon.
+Mood/anxiety: 54 wound, 9 outcome. Lots of anxiety described, very little "my anxiety went away." Scene language, not angle language.
+
+High outcome, low wound = strong PAYOFF, weak hook. Women describe what changed but don't dwell on what it was like before. Best used for outcome montages and CTA.
+
+Full day: 5 wound, 54 outcome. Almost nobody says "I only had four hours." They say "I have energy all day now." Payoff language, not hook language.
+Exercise: 0 wound, 21 outcome. Nobody says "I was too tired to exercise." They say "I'm working out again." Pure payoff.
+Identity: 0 wound, 12 outcome. "Feel like myself again" — pure payoff language.
+Work productivity: 0 wound, 13 outcome. "Stay focused all day" — pure payoff.
+
+Balanced wound AND outcome = complete angle. Both the scene and the resolution are in the data. These are the strongest testable angles because you have hook AND payoff language.
+
+Brain fog: 34 wound, 28 outcome. Women describe the fog AND describe it lifting. Full angle.
+Afternoon crash: 19 wound, 31 outcome. Women describe crashing AND describe getting past it. Manus's finding confirmed — this is the strongest complete angle.
+Sleep quality: 14 wound, 18 outcome. Both sides present but less sharp than brain fog or afternoon crash.
+Hair/skin: 21 wound, 11 outcome. Both sides present. Visual-proof angle.
+Libido: 4 wound, 15 outcome. Mostly outcome language — "libido came back." The wound is understated in Amazon reviews (probably because it's private). Reddit would have the wound side.
+
+CORRECTING MY EARLIER ERRORS:
+
+My first pass said 1 clean mention of nap/crash. The thorough search found:
+
+Afternoon crash specifically: 50 total (19 wound, 31 outcome). Manus's 17 was conservative. My 1 was wrong.
+Nap elimination: 23 total (22 wound, 1 outcome). The wound is vivid. The outcome is nearly absent in Amazon. My "only 1" was right for outcomes but I missed the 22 wound mentions entirely.
+Libido: 19 total (4 wound, 15 outcome). Down from my earlier 24 because the thorough search separated "desire to exercise" from actual sexual desire. My first pass was inflated by keyword overlap.
+Cooking/domestic: 1 total. My earlier 14 was massively inflated by "cook" appearing in reviews about cooking organ meat, not about having energy to cook dinner. The real destination signal is nearly zero in this dataset.
+Social/friends: 7 total. Down from 13. Most of my earlier hits were "cancelled my subscription" not "stopped cancelling on friends." Keyword noise.
+
+The honest ranking for destination angles in this Amazon data:
+
+Afternoon crash → full day (50 + 59 overlapping = strongest combined signal)
+Brain fog → clarity (62 total, balanced wound/outcome)
+Exercise / movement (21 outcome-only, strong identity language)
+Libido / intimacy (19, mostly outcome, needs Reddit for wound side)
+Morning energy (15, moderate both sides)
+Work productivity (13, outcome-only)
+Identity return (12, outcome-only — payoff language, not hook language)
+Parenting (6, too thin to pass the 3-source condition from Amazon alone)
+Social (7, noisy, most hits are false positives)
+Cooking (1, effectively zero real destination language)
